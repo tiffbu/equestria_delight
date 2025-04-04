@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "equestria_delight:chopped_daisy"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "equestria_delight:chopped_daisy"
+    }
+  ],
+  "result": {
+    "item": "equestria_delight:daisy_sandwich",
+    "count": 1
+  }
+}

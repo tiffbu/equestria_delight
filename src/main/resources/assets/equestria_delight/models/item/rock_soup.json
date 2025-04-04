@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/rock_soup",
+  "textures": {
+    "1": "equestria_delight:block/rock_soup",
+    "particle": "minecraft:item/broken_elytra"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "c": {
+      "tag": "equestria_delight:cream_ingredient"
+    },
+    "d": {
+      "item": "equestria_delight:cupcake"
+    }
+  },
+  "result": {
+    "item": "equestria_delight:amethyst_cupcake",
+    "count": 1
+  }
+}

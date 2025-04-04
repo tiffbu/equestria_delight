@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:stone"
+    }
+  ],
+  "result": {
+    "item": "equestria_delight:rock_soup"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

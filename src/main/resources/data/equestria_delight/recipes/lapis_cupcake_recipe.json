@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "c": {
+      "tag": "equestria_delight:cream_ingredient"
+    },
+    "d": {
+      "item": "equestria_delight:cupcake"
+    }
+  },
+  "result": {
+    "item": "equestria_delight:lapis_cupcake",
+    "count": 1
+  }
+}

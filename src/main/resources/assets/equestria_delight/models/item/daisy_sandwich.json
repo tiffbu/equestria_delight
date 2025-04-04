@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/daisy_sandwich",
+  "textures": {
+    "1": "equestria_delight:block/daisy_sandwich",
+    "particle": "equestria_delight:item/daisy_sandwich_icon"
+  }
+}

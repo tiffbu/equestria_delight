@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:oxeye_daisy"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "equestria_delight:chopped_daisy",
+      "count": 1
+    },
+    {
+      "item": "equestria_delight:chopped_daisy",
+      "count": 2,
+      "chance": 0.4
+    }
+  ]
+}

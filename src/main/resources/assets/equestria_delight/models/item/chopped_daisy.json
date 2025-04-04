@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/chopped_daisy",
+  "textures": {
+    "1": "equestria_delight:block/daisy_sandwich",
+    "particle": "minecraft:item/seagrass"
+  }
+}
