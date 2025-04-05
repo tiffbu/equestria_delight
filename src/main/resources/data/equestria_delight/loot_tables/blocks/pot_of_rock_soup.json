@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "equestria_delight:blocks/pot_of_rock_soup",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "equestria_delight:pot_of_rock_soup"
+        }
+      ]
+    }
+  ]
+}

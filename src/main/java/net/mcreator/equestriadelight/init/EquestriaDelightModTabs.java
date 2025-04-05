@@ -30,5 +30,6 @@ public class EquestriaDelightModTabs {
 				tabData.accept(EquestriaDelightModItems.CUPCAKE.get());
 				tabData.accept(EquestriaDelightModItems.LAPIS_CUPCAKE.get());
 				tabData.accept(EquestriaDelightModItems.NETHER_QUARTZ_CUPCAKE.get());
+				tabData.accept(EquestriaDelightModBlocks.POT_OF_ROCK_SOUP.get().asItem());
 			}).build());
 }

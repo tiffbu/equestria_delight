@@ -8,7 +8,9 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.equestriadelight.item.UncookedRockSoupItem;
 import net.mcreator.equestriadelight.item.RockSoupItem;
@@ -38,6 +40,11 @@ public class EquestriaDelightModItems {
 	public static final RegistryObject<Item> CUPCAKE = REGISTRY.register("cupcake", () -> new CupcakeItem());
 	public static final RegistryObject<Item> LAPIS_CUPCAKE = REGISTRY.register("lapis_cupcake", () -> new LapisCupcakeItem());
 	public static final RegistryObject<Item> NETHER_QUARTZ_CUPCAKE = REGISTRY.register("nether_quartz_cupcake", () -> new NetherQuartzCupcakeItem());
+	public static final RegistryObject<Item> POT_OF_ROCK_SOUP = block(EquestriaDelightModBlocks.POT_OF_ROCK_SOUP);
+
 	// Start of user code block custom items
 	// End of user code block custom items
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
 }
