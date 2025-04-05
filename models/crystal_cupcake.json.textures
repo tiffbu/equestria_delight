@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": ""
+      },
+      "name": "default"
+    },
+    "cupcake_amethyst": {
+      "map": {
+        "2": "cupcake_amethyst"
+      },
+      "name": "cupcake_amethyst"
+    },
+    "cupcake_diamond": {
+      "map": {
+        "2": "cupcake_diamond"
+      },
+      "name": "cupcake_diamond"
+    },
+    "cupcake_echo_shard": {
+      "map": {
+        "2": "cupcake_echo_shard"
+      },
+      "name": "cupcake_echo_shard"
+    },
+    "cupcake_emerald": {
+      "map": {
+        "2": "cupcake_emerald"
+      },
+      "name": "cupcake_emerald"
+    },
+    "cupcake_nether_star": {
+      "map": {
+        "2": "cupcake_nether_star"
+      },
+      "name": "cupcake_nether_star"
+    },
+    "cupcake_lapis": {
+      "map": {
+        "2": "cupcake_lapis"
+      },
+      "name": "cupcake_lapis"
+    },
+    "cupcake_nether_quartz": {
+      "map": {
+        "2": "cupcake_nether_quartz"
+      },
+      "name": "cupcake_nether_quartz"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "daisy_sandwich"
+      },
+      "name": "default"
+    }
+  }
+}

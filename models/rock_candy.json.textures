@@ -1,0 +1,58 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": ""
+      },
+      "name": "default"
+    },
+    "rock_candy_black": {
+      "map": {
+        "0": "rock_candy_black"
+      },
+      "name": "rock_candy_black"
+    },
+    "rock_candy_gray": {
+      "map": {
+        "0": "rock_candy_gray"
+      },
+      "name": "rock_candy_gray"
+    },
+    "rock_candy_light_gray": {
+      "map": {
+        "0": "rock_candy_light_gray"
+      },
+      "name": "rock_candy_light_gray"
+    },
+    "rock_candy_lime": {
+      "map": {
+        "0": "rock_candy_lime"
+      },
+      "name": "rock_candy_lime"
+    },
+    "rock_candy_orange": {
+      "map": {
+        "0": "rock_candy_orange"
+      },
+      "name": "rock_candy_orange"
+    },
+    "rock_candy_red": {
+      "map": {
+        "0": "rock_candy_red"
+      },
+      "name": "rock_candy_red"
+    },
+    "rock_candy_white": {
+      "map": {
+        "0": "rock_candy_white"
+      },
+      "name": "rock_candy_white"
+    },
+    "rock_candy_yellow": {
+      "map": {
+        "0": "rock_candy_yellow"
+      },
+      "name": "rock_candy_yellow"
+    }
+  }
+}
