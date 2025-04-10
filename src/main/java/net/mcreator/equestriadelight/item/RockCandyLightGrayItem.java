@@ -6,8 +6,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.food.FoodProperties;
 
-public class ChoppedDaisyItem extends Item {
-	public ChoppedDaisyItem() {
+public class RockCandyLightGrayItem extends Item {
+	public RockCandyLightGrayItem() {
 		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(1).saturationMod(0.3f).build()));
 	}
 
