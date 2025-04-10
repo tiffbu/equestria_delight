@@ -1,0 +1,1556 @@
+{
+  "mod_elements": [
+    {
+      "name": "DaisySandwich",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daisy_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/daisy_sandwich.json",
+          "src/main/java/net/mcreator/equestriadelight/item/DaisySandwichItem.java"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "EquestriaDelight",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "equestria_delight",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ChoppedDaisy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chopped_daisy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/chopped_daisy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/ChoppedDaisyItem.java"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "DaisySandwish",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "daisy_sandwish",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/daisy_sandwish.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "DelightChoppedDaisy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "delight_chopped_daisy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/delight_chopped_daisy.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "DelightDaisySandwich",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "delight_daisy_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/delight_daisy_sandwich.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "RockSoup",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_soup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockSoupItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_soup.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "UncookedRockSoup",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncooked_rock_soup",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/uncooked_rock_soup.json",
+          "src/main/java/net/mcreator/equestriadelight/item/UncookedRockSoupItem.java"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "UncookedRockSoup1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncooked_rock_soup_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/uncooked_rock_soup_1.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "RockSoupCookingFurnace",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_soup_cooking_furnace",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_soup_cooking_furnace.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "RockSoupCookingCampfire",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_soup_cooking_campfire",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_soup_cooking_campfire.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "RockSoupCookingSmoking",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_soup_cooking_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_soup_cooking_smoking.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "DelightRockSoup",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "delight_rock_soup",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/delight_rock_soup.json"
+        ]
+      },
+      "path": "~/RockSoup"
+    },
+    {
+      "name": "DiamondCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/DiamondCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/diamond_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "AmethystCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/AmethystCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/amethyst_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "NetherStarCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nether_star_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/nether_star_cupcake.json",
+          "src/main/java/net/mcreator/equestriadelight/item/NetherStarCupcakeItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "EchoShardCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "echo_shard_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/EchoShardCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/echo_shard_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "EmeraldCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/EmeraldCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/emerald_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "Cupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeRecipe2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_recipe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_recipe_2.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "DiamondCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamond_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/diamond_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "AmethystCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "amethyst_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/amethyst_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "EchoShardCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "echo_shard_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/echo_shard_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "NetherStarCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nether_star_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/nether_star_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "LapisCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/LapisCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/lapis_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "NetherQuartzCupcake",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_quartz_cupcake",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/NetherQuartzCupcakeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/nether_quartz_cupcake.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "EmeraldCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emerald_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/emerald_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "LapisCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lapis_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/lapis_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "NetherQuartzCupcakeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nether_quartz_cupcake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/nether_quartz_cupcake_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "RockCandyWhite",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_white",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyWhiteItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_white.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLightGray",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_candy_light_gray",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_light_gray.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyLightGrayItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyGray",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_candy_gray",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyGrayItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_gray.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBlack",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_candy_black",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_black.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyBlackItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyRed",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_red",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_red.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyRedItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyOrange",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_orange",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_orange.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyOrangeItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyYellow",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_yellow.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyYellowItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLime",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_lime",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_lime.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyLimeItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyGreen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_green",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyGreenItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_green.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLightBlue",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_light_blue",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyLightBlueItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_light_blue.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBlue",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_blue.json",
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyBlueItem.java"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyPurple",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_candy_purple",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyPurpleItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_purple.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyMagenta",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_candy_magenta",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyMagentaItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_magenta.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyPink",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_pink",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyPinkItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_pink.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBrown",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_brown",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyBrownItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_brown.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyWhiteRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_white_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_white_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLightGrayRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_light_gray_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_light_gray_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyGrayRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_gray_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_gray_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBlackRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_black_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_black_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyRedRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_red_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_red_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "CupcakeWhiteRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_white_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeWhiteRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_white_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeGrayRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_gray_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeGrayRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_gray_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeLightGrayRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_light_gray_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeLightGrayRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_light_gray_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBlackRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_black_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeBlackRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_black_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeWhiteRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_white_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_white_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeRedRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_red_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeRedRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_red_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeOrangeRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_orange_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_orange_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeOrangeRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeYellowRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_yellow_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_yellow_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeYellowRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeLimeRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_lime_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeLimeRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_lime_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeGreenRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_green_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_green_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeGreenRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "RockCandyOrangeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_orange_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_orange_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyYellowRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_yellow_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_yellow_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLimeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_lime_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_lime_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyLightBlueRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_light_blue_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_light_blue_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyCyan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_cyan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/RockCandyCyanItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/rock_candy_cyan.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "CarrotDog",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "carrot_dog",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CarrotDogItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/carrot_dog.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "CarrotDogRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carrot_dog_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/carrot_dog_recipe.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "Hayburger",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hayburger",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/HayburgerItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/hayburger.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "PastaAndPotatoSandwichesOnGrilledSourdough",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pasta_and_potato_sandwiches_on_grilled_sourdough",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/PastaAndPotatoSandwichesOnGrilledSourdoughItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/pasta_and_potato_sandwiches_on_grilled_sourdough.json"
+        ]
+      },
+      "path": "~/Sandwich"
+    },
+    {
+      "name": "CupcakeLightBlueRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_light_blue_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeLightBlueRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_light_blue_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeCyanRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_cyan_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_cyan_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeCyanRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBlueRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_blue_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeBlueRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_blue_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakePurpleRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_purple_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_purple_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakePurpleRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeMagentaRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_magenta_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeMagentaRockCandyItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_magenta_rock_candy.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakePinkRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_pink_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_pink_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakePinkRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBrownRockCandy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cupcake_brown_rock_candy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/cupcake_brown_rock_candy.json",
+          "src/main/java/net/mcreator/equestriadelight/item/CupcakeBrownRockCandyItem.java"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "PotatoHorseshoe",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potato_horseshoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/equestriadelight/item/PotatoHorseshoeItem.java",
+          "src/main/resources/assets/equestria_delight/models/item/potato_horseshoe.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "PotatoHorseshoeUncooked",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potato_horseshoe_uncooked",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/equestria_delight/models/item/potato_horseshoe_uncooked.json",
+          "src/main/java/net/mcreator/equestriadelight/item/PotatoHorseshoeUncookedItem.java"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "UncoookHorseshoeFries",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "uncoook_horseshoe_fries",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/uncoook_horseshoe_fries.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "HorseshoeFriesCampfire",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horseshoe_fries_campfire",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/horseshoe_fries_campfire.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "HorseshoeFriesSmoker",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horseshoe_fries_smoker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/horseshoe_fries_smoker.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "HorseshoeFriesFurnace",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horseshoe_fries_furnace",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/horseshoe_fries_furnace.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "HayBurgerRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "hay_burger_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/hay_burger_recipe.json"
+        ]
+      },
+      "path": "~/TheHayBurgers"
+    },
+    {
+      "name": "CupcakeLightGrayRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_light_gray_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_light_gray_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeGrayRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_gray_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_gray_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBlackRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_black_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_black_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeRedRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_red_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_red_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeOrangeRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_orange_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_orange_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeYellowRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_yellow_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_yellow_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeLimeRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_lime_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_lime_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeGreenRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_green_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_green_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeLightBlueRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_light_blue_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_light_blue_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeCyanRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_cyan_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_cyan_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBlueRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_blue_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_blue_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakePurpleRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_purple_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_purple_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeMagentaRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_magenta_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_magenta_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakePinkRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_pink_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_pink_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "CupcakeBrownRockCandyRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cupcake_brown_rock_candy_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/cupcake_brown_rock_candy_recipe.json"
+        ]
+      },
+      "path": "~/CupCakes"
+    },
+    {
+      "name": "RockCandyCyanRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_cyan_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_cyan_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBlueRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_blue_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_blue_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyPurpleRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_purple_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_purple_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyMagentaRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_magenta_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_magenta_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyPinkRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_pink_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_pink_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    },
+    {
+      "name": "RockCandyBrownRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "rock_candy_brown_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/equestria_delight/recipes/rock_candy_brown_recipe.json"
+        ]
+      },
+      "path": "~/RockCandy"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {
+    "CUSTOM:EquestriaDelight": [
+      "DaisySandwich",
+      "ChoppedDaisy",
+      "CarrotDog",
+      "PastaAndPotatoSandwichesOnGrilledSourdough",
+      "RockSoup",
+      "UncookedRockSoup",
+      "Cupcake",
+      "NetherQuartzCupcake",
+      "DiamondCupcake",
+      "EmeraldCupcake",
+      "AmethystCupcake",
+      "LapisCupcake",
+      "EchoShardCupcake",
+      "NetherStarCupcake",
+      "RockCandyWhite",
+      "RockCandyLightGray",
+      "RockCandyGray",
+      "RockCandyBlack",
+      "RockCandyRed",
+      "RockCandyOrange",
+      "RockCandyYellow",
+      "RockCandyLime",
+      "RockCandyGreen",
+      "RockCandyLightBlue",
+      "RockCandyCyan",
+      "RockCandyBlue",
+      "RockCandyPurple",
+      "RockCandyMagenta",
+      "RockCandyPink",
+      "RockCandyBrown",
+      "CupcakeWhiteRockCandy",
+      "CupcakeGrayRockCandy",
+      "CupcakeLightGrayRockCandy",
+      "CupcakeBlackRockCandy",
+      "CupcakeRedRockCandy",
+      "CupcakeOrangeRockCandy",
+      "CupcakeYellowRockCandy",
+      "CupcakeLimeRockCandy",
+      "CupcakeGreenRockCandy",
+      "CupcakeLightBlueRockCandy",
+      "CupcakeCyanRockCandy",
+      "CupcakeBlueRockCandy",
+      "CupcakePurpleRockCandy",
+      "CupcakeMagentaRockCandy",
+      "CupcakePinkRockCandy",
+      "CupcakeBrownRockCandy",
+      "Hayburger",
+      "PotatoHorseshoe",
+      "PotatoHorseshoeUncooked"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "item.equestria_delight.cupcake_brown_rock_candy": "Brown Rock Candy Cupcake",
+      "item.equestria_delight.potato_horseshoe": "Horseshoe Fries",
+      "item.equestria_delight.cupcake_lime_rock_candy": "Lime Rock Candy Cupcake",
+      "item.equestria_delight.lapis_cupcake": "Lapis Cupcake",
+      "item.equestria_delight.rock_candy_magenta": "Magenta Rock Candy",
+      "item.equestria_delight.cupcake_green_rock_candy": "Green Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_light_blue_rock_candy": "Light Blue Rock Candy Cupcake",
+      "item.equestria_delight.nether_star_cupcake": "Nether Star Cupcake",
+      "item.equestria_delight.cupcake": "Cupcake",
+      "item.equestria_delight.pasta_and_potato_sandwiches_on_grilled_sourdough": "Pasta and Potato Sandwiches on Grilled Sourdough",
+      "item.equestria_delight.nether_quartz_cupcake": "Nether Quartz Cupcake",
+      "item.equestria_delight.cupcake_magenta_rock_candy": "Magenta Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_black_rock_candy": "Black Rock Candy Cupcake",
+      "item.equestria_delight.rock_candy_orange": "Orange Rock Candy",
+      "item.equestria_delight.rock_candy_cyan": "Cyan Rock Candy",
+      "item.equestria_delight.rock_candy_purple": "Purple Rock Candy",
+      "item.equestria_delight.cupcake_gray_rock_candy": "Gray Rock Candy Cupcake",
+      "item.equestria_delight.rock_candy_black": "Black Rock Candy",
+      "item.equestria_delight.cupcake_blue_rock_candy": "Blue Rock Candy Cupcake",
+      "item.equestria_delight.chopped_daisy": "Chopped Daisy",
+      "item.equestria_delight.rock_soup": "Rock Soup",
+      "item.equestria_delight.cupcake_red_rock_candy": "Red Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_white_rock_candy": "White Rock Candy Cupcake",
+      "item.equestria_delight.rock_candy_pink": "Pink Rock Candy",
+      "item.equestria_delight.emerald_cupcake": "Emerald Cupcake",
+      "item.equestria_delight.cupcake_purple_rock_candy": "Purple Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_light_gray_rock_candy": "Light Gray Rock Candy Cupcake",
+      "item.equestria_delight.echo_shard_cupcake": "Echo Shard Cupcake",
+      "item.equestria_delight.diamond_cupcake": "Diamond Cupcake",
+      "item.equestria_delight.hayburger": "Hayburger",
+      "item.equestria_delight.potato_horseshoe_uncooked": "Uncooked Horseshoe Fries",
+      "item.equestria_delight.cupcake_pink_rock_candy": "Pink Rock Candy Cupcake",
+      "item.equestria_delight.carrot_dog": "Carrot Dog",
+      "item.equestria_delight.rock_candy_red": "Red Rock Candy",
+      "item.equestria_delight.rock_candy_green": "Green Rock Candy",
+      "item.equestria_delight.rock_candy_lime": "Lime Rock Candy",
+      "item.equestria_delight.rock_candy_brown": "Brown Rock Candy",
+      "item.equestria_delight.rock_candy_white": "White Rock Candy",
+      "item.equestria_delight.rock_candy_blue": "Blue Rock Candy",
+      "item.equestria_delight.rock_candy_light_gray": "Light Gray Rock Candy",
+      "item_group.equestria_delight.equestria_delight": "Equestria Delight",
+      "item.equestria_delight.rock_candy_yellow": "Yellow Rock Candy",
+      "item.equestria_delight.daisy_sandwich": "Daisy Sandwich",
+      "item.equestria_delight.amethyst_cupcake": "Amethyst Cupcake",
+      "item.equestria_delight.rock_candy_gray": "Gray Rock Candy",
+      "item.equestria_delight.cupcake_orange_rock_candy": "Orange Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_cyan_rock_candy": "Cyan Rock Candy Cupcake",
+      "item.equestria_delight.cupcake_yellow_rock_candy": "Yellow Rock Candy Cupcake",
+      "item.equestria_delight.uncooked_rock_soup": "Uncooked Rock Soup",
+      "item.equestria_delight.rock_candy_light_blue": "Light Blue Rock Candy"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Sandwich",
+        "children": []
+      },
+      {
+        "name": "CupCakes",
+        "children": []
+      },
+      {
+        "name": "RockSoup",
+        "children": []
+      },
+      {
+        "name": "RockCandy",
+        "children": []
+      },
+      {
+        "name": "TheHayBurgers",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "equestria_delight",
+    "modName": "Equestria Delight",
+    "version": "1.0.0",
+    "author": "MiniTiff, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "farmers_delight"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.equestriadelight"
+  },
+  "mcreatorVersion": 202500113416
+}
