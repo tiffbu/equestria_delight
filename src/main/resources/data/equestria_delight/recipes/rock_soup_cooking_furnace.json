@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "category": "food",
   "experience": 1,
-  "cookingtime": 150,
+  "cookingtime": 200,
   "ingredient": {
     "item": "equestria_delight:uncooked_rock_soup"
   },

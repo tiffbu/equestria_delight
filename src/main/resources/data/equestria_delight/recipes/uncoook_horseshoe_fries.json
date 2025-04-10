@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "equestria_delight:potato_horseshoe_uncooked",
+      "count": 3
+    },
+    {
+      "item": "equestria_delight:potato_horseshoe_uncooked",
+      "count": 4,
+      "chance": 0.2
+    }
+  ]
+}

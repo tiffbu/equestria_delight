@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "equestria_delight:rock_candy_light_blue"
+    },
+    "c": {
+      "tag": "equestria_delight:cream_ingredient"
+    },
+    "d": {
+      "item": "equestria_delight:cupcake"
+    }
+  },
+  "result": {
+    "item": "equestria_delight:cupcake_light_blue_rock_candy",
+    "count": 1
+  }
+}
