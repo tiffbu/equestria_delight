@@ -1,3 +1,4 @@
 # equestria_delight
-farmers delight addon for mlp foods, all item have 3d models and it have pony orgins compatibility 
-nyhehhehehe 
+A farmers delight addon that adds mlp foods. All item have 3d models, with pony orgins compatibility.
+<br>
+Content me to help un-MCreator this project (please i need help with coding)
