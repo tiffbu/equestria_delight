@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "pasta_and_potato_sandwiches_on_grilled_sourdough"
+      },
+      "name": "default"
+    }
+  }
+}

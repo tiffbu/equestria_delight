@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "horseshoe_fries"
+      },
+      "name": "default"
+    },
+    "uncooked": {
+      "map": {
+        "1": "horseshoe_fries_uncooked"
+      },
+      "name": "uncooked"
+    }
+  }
+}

@@ -6,29 +6,71 @@
       },
       "name": "default"
     },
+    "rock_candy_white": {
+      "map": {
+        "0": "cupcake_white"
+      },
+      "name": "rock_candy_white"
+    },
     "rock_candy_black": {
       "map": {
-        "0": "rock_candy_black"
+        "0": "cupcake_black"
       },
       "name": "rock_candy_black"
     },
+    "rock_candy_blue": {
+      "map": {
+        "0": "cupcake_blue"
+      },
+      "name": "rock_candy_blue"
+    },
+    "rock_candy_brown": {
+      "map": {
+        "0": "cupcake_brown"
+      },
+      "name": "rock_candy_brown"
+    },
+    "rock_candy_cyan": {
+      "map": {
+        "0": "cupcake_cyan"
+      },
+      "name": "rock_candy_cyan"
+    },
     "rock_candy_gray": {
       "map": {
-        "0": "rock_candy_gray"
+        "0": "cupcake_gray"
       },
       "name": "rock_candy_gray"
     },
+    "rock_candy_green": {
+      "map": {
+        "0": "cupcake_green"
+      },
+      "name": "rock_candy_green"
+    },
+    "rock_candy_light_blue": {
+      "map": {
+        "0": "cupcake_light_blue"
+      },
+      "name": "rock_candy_light_blue"
+    },
     "rock_candy_light_gray": {
       "map": {
-        "0": "rock_candy_light_gray"
+        "0": "cupcake_light_gray"
       },
       "name": "rock_candy_light_gray"
     },
     "rock_candy_lime": {
       "map": {
-        "0": "rock_candy_lime"
+        "0": "cupcake_lime"
       },
       "name": "rock_candy_lime"
+    },
+    "rock_candy_magenta": {
+      "map": {
+        "0": "cupcake_magenta"
+      },
+      "name": "rock_candy_magenta"
     },
     "rock_candy_orange": {
       "map": {
@@ -36,21 +78,27 @@
       },
       "name": "rock_candy_orange"
     },
+    "rock_candy_pink": {
+      "map": {
+        "0": "rock_candy_pink"
+      },
+      "name": "rock_candy_pink"
+    },
+    "rock_candy_purple": {
+      "map": {
+        "0": "cupcake_purple"
+      },
+      "name": "rock_candy_purple"
+    },
     "rock_candy_red": {
       "map": {
-        "0": "rock_candy_red"
+        "0": "cupcake_red"
       },
       "name": "rock_candy_red"
     },
-    "rock_candy_white": {
-      "map": {
-        "0": "rock_candy_white"
-      },
-      "name": "rock_candy_white"
-    },
     "rock_candy_yellow": {
       "map": {
-        "0": "rock_candy_yellow"
+        "0": "cupcake_yellow"
       },
       "name": "rock_candy_yellow"
     }
