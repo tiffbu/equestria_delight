@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/rock_candy",
+  "textures": {
+    "0": "equestria_delight:block/rock_candy_magenta",
+    "particle": "minecraft:item/magenta_dye"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/pasta_and_potato_sandwiches_on_grilled_sourdough",
+  "textures": {
+    "2": "equestria_delight:block/pasta_and_potato_sandwiches_on_grilled_sourdough",
+    "particle": "equestria_delight:block/pasta_and_potato_sandwiches_on_grilled_sourdough"
+  }
+}

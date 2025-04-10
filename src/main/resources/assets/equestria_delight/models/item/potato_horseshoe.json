@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/horseshoe_fries_orginal",
+  "textures": {
+    "1": "equestria_delight:block/horseshoe_fries",
+    "particle": "minecraft:item/baked_potato"
+  }
+}

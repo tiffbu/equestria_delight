@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/hotdog",
+  "textures": {
+    "1": "equestria_delight:block/hot_dog",
+    "particle": "equestria_delight:block/hot_dog"
+  }
+}

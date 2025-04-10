@@ -1,0 +1,7 @@
+{
+  "parent": "equestria_delight:custom/hayburger",
+  "textures": {
+    "0": "equestria_delight:block/hayburger",
+    "particle": "minecraft:item/bread"
+  }
+}
