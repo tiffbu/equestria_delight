@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "FOOD",
+    "xpReward": 1.0,
+    "cookingTime": 400,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:UncookedRockSoup"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:RockSoup"
+    },
+    "name": "rock_soup_cooking_campfire",
+    "namespace": "mod"
+  }
+}

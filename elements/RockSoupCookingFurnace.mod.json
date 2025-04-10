@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "FOOD",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:UncookedRockSoup"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:RockSoup"
+    },
+    "name": "rock_soup_cooking_furnace",
+    "namespace": "mod"
+  }
+}
